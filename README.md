@@ -1,4 +1,4 @@
-# Tag Sphere View
+# TagSphereView_Test
 
 ## Library supports different types of customization   
 
@@ -31,5 +31,5 @@ Showcase 1                 |  Showcase 2              |  Showcase 3             
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.  
-# TagSphereView_Test
+    limitations under the License.
+
